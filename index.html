@@ -4,7 +4,7 @@ title: Byte Club
 ---
 
 <div id="home">
-  <h1>Episodes</h1>
+  <h1>Episodes <a href="http://dpplweb.github.io/byte-club/podcast.xml"><i class="rss"></i></a></h1>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="/byte-club{{ post.url }}">{{ post.title }}</a></li>
