@@ -54,7 +54,7 @@ layout: nil
  
  <itunes:image href="{{ site.url }}/img/byte-club-cover-large.png" />
  
- <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
+ <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mpeg" />
  
  <guid>{{ post.link }}</guid>
  
