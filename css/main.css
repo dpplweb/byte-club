@@ -59,10 +59,10 @@ ul.posts span {
 
 .rss{
   display: inline-block;
-  height: 22px;
-  width: 22px;
-  line-height: 22px;
-  background: url('/byte-club/img/rss.png') no-repeat center center;
+  height: 16px;
+  width: 16px;
+  line-height: 16px;
+  background: url('/byte-club/img/rss-16-black.png') no-repeat center center;
 }
 
 .site {
